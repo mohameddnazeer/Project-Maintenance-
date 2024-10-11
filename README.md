@@ -14,6 +14,8 @@ The project includes several key features:
 
 ## Pages and Screenshots
 
+all pages in (assets/images)
+
 ### 1. Login Page
 
 This page allows users to authenticate and log in.
