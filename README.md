@@ -20,31 +20,31 @@ all pages in (assets/images)
 
 This page allows users to authenticate and log in.
 
-![Login Page](./assets/images/login.png)
+![Login Page](./Design/login.png)
 
 ### 2. All Devices
 
 This page shows all devices under maintenance.
 
-![All Devices Page](./assets/images/home.png)
+![All Devices Page](./Design/home.png)
 
 ### 3. Add Device
 
 On this page, users can add a new device to the system.
 
-![Add Device Page](./assets/images/addDevice.png)
+![Add Device Page](./Design/addDevice.png)
 
 ### 4. Maintenance Operations
 
 This page lists all devices currently under maintenance.
 
-![Maintenance Operations Page](./assets/images/maintenanceOperations.png)
+![Maintenance Operations Page](./Design/maintenanceOperations.png)
 
 ### 5. Ready for Delivery
 
 This page shows devices that are ready to be delivered.
 
-![Ready for Delivery Page](./assets/images/readyForDelivery.png)
+![Ready for Delivery Page](./Design/readyForDelivery.png)
 
 ## Technologies Used
 
